@@ -307,3 +307,5 @@ rmdir icons
 mkdir ./client/assets/icons
 mv CodeAlly.svg ./client/assets/icons
 find
+mv CodeRoad ./client/assets/icons
+mv CodeRoad.svg ./client/assets/icons

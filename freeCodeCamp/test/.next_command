@@ -344,3 +344,5 @@ ls --color=auto
 more README.md
 echo I made this boilerplate >> README.md
 more README.md
+less README.md
+echo from the command line >> README.md

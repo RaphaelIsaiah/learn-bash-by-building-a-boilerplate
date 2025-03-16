@@ -340,3 +340,6 @@ echo Yay!
 echo I finished the boilerplate!
 echo one more thing..
 echo one more thing...
+ls --color=auto
+more README.md
+echo I made this boilerplate >> README.md

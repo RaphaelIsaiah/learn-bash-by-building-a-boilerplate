@@ -64,3 +64,5 @@ git remote -v
 echo hello terminal
 pwd
 ls --color=auto
+ls --color=auto
+cd freeCodeCamp

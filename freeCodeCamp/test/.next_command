@@ -315,3 +315,12 @@ mkdir ./client/assets/fonts
 touch ./client/assets/fonts/roboto-bold.woff
 __vsc_prompt_cmd_original
 touch ./client/assets/fonts/roboto-light.woff
+find -name client/assets/fonts
+find fonts
+find clients
+find client
+find -name client
+find -name fonts
+ls --color=auto
+rmdir client.assets
+find .client/assets/fonts

@@ -202,3 +202,4 @@ rm project
 rmdir project
 ls --color=auto
 mkdir website
+ls --color=auto

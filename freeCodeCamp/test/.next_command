@@ -324,3 +324,5 @@ find -name fonts
 ls --color=auto
 rmdir client.assets
 find .client/assets/fonts
+find ./client/assets/fonts
+touch ./client/assets/fonts/lato-bold.ttf

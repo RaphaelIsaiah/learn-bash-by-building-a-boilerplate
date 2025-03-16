@@ -271,3 +271,5 @@ find
 find client
 clear
 find --help
+clear
+find -name index.html

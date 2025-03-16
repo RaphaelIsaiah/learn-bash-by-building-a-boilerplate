@@ -173,3 +173,4 @@ ls --color=auto
 more package.js
 more package.json
 clear
+ls --color=auto
